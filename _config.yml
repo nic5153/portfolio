@@ -24,7 +24,7 @@ repository    : "nic5153/portfolio"          # update this too
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.jpg"
   name             : "Nicholas McClure"
   pronouns         : "he/him"  
   bio              : "I am a senior at Texas Tech University, set to graduate in December 2025. Currently, I work as a student researcher under Dr. Michael Fausnaugh, focusing on time-domain cataclysmic variable research. My current interests lie in stars and asteroseismology, and I am particularly passionate about understanding stellar evolution and the processes that govern it. After completing my undergraduate studies I aspire to pursue a PhD in Astrophysics. Outside of my academic pursuits, I enjoy hiking and spending quality time with my dog, Orion, and my cat, Cassie (short for Cassiopeia). For any questions about the research shown, please feel free to send me a message at nimcclur@ttu.edu. Thanks for visiting!"
