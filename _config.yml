@@ -31,7 +31,7 @@ author:
 
 
   location         : "Lubbock, TX"
-  employer         : "Texas Tech Department of Physics and Astronomy"
+  employer         : "Texas Tech University"
   uri              : "https://nic5153.github.io/portfolio/"
   email            : "nimcclur@ttu.edu"
 
@@ -41,11 +41,11 @@ author:
   googlescholar    :
   inspire-hep      :
   impactstory      :
-  orcid            : #
-  semantic         : # URL
-  pubmed           : #
-  researchgate     : # URL
-  scopus           : # URL
+  orcid            : 
+  semantic         :
+  pubmed           :
+  researchgate     :
+  scopus           :
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "nicholas-mcclure-3a463524a"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
