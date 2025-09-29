@@ -12,8 +12,7 @@ permalink: /posters/
 
 <object data="{{ poster_url }}" type="application/pdf" width="100%" height="1100px">
   <iframe src="{{ poster_url }}" width="100%" height="1100px">
-    <p>Your browser can’t display embedded PDFs. 
+    <p>Your browser can’t display embedded PDFs.
        <a href="{{ poster_url }}">Open the poster</a> instead.</p>
   </iframe>
 </object>
-
