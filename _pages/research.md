@@ -1,20 +1,14 @@
-------
+---
 layout: splash
 title: "Research"
 permalink: /research/
 header:
   overlay_image: /assets/research/tess.png
-  caption: "The Transiting Exoplanet Survey Satelite"
+  caption: "The Transiting Exoplanet Survey Satellite"
   actions:
     - label: "Download Poster (PDF)"
       url: "{{ '/files/mysterious_modulations_sep2025.pdf' | relative_url }}"
 ---
-
-layout: archive
-title: "Research"
-permalink: /research/
----
-![TESS Mission]({{ '/assets/research/tess.png' | relative_url }})
 
 # Research
 
