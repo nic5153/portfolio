@@ -1,4 +1,15 @@
+------
+layout: splash
+title: "Research"
+permalink: /research/
+header:
+  overlay_image: /assets/research/tess.png
+  caption: "The Transiting Exoplanet Survey Satelite"
+  actions:
+    - label: "Download Poster (PDF)"
+      url: "{{ '/files/mysterious_modulations_sep2025.pdf' | relative_url }}"
 ---
+
 layout: archive
 title: "Research"
 permalink: /research/
