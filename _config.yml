@@ -27,7 +27,8 @@ author:
   avatar           : "profile.png"
   name             : "Nicholas McClure"
   pronouns         : "he/him"  
-  bio              : "I am a senior at Texas Tech University, set to graduate in December 2025. Currently, I work as a student researcher under Dr. Michael Fausnaugh, focusing on time-domain cataclysmic variable research. My current interests lie in stars and asteroseismology, and I am particularly passionate about understanding stellar evolution and the processes that govern it. After completing my undergraduate studies I aspire to pursue a PhD in Astrophysics. Outside of my academic pursuits, I enjoy hiking and spending quality time with my dog, Orion, and my cat, Cassie, short for Cassiopeia. For any questions about the research shown, please feel free to send me a message to my email at nimcclur@ttu.edu. Thanks for visiting!"
+  bio              : "I am a senior at Texas Tech University, set to graduate in December 2025. Currently, I work as a student researcher under Dr. Michael Fausnaugh, focusing on time-domain cataclysmic variable research. My current interests lie in stars and asteroseismology, and I am particularly passionate about understanding stellar evolution and the processes that govern it. After completing my undergraduate studies I aspire to pursue a PhD in Astrophysics. Outside of my academic pursuits, I enjoy hiking and spending quality time with my dog, Orion, and my cat, Cassie (short for Cassiopeia). For any questions about the research shown, please feel free to send me a message at nimcclur@ttu.edu. Thanks for visiting!"
+
 
   location         : "Lubbock, TX"
   employer         : "Texas Tech Department of Physics and Astronomy"
@@ -35,11 +36,11 @@ author:
   email            : "nimcclur@ttu.edu"
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #
-  inspire-hep      : # URL
-  impactstory      : # URL
+  academia         :
+  arxiv            : 
+  googlescholar    :
+  inspire-hep      :
+  impactstory      :
   orcid            : #
   semantic         : # URL
   pubmed           : #
