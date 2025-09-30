@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Research"
 permalink: /research/
 ---
@@ -16,7 +16,7 @@ Two nearby targets were identified as potential blending sources; one is likely 
 
 # What is a CV?
 
-Cataclysmic variable (CV) systems are close binary star systems where a **white dwarf** accretes material from a companion star. As the material from the companion star is accreted, it flows toward the white dwarf, forming an **accretion disk** of superheated meterial around it.  
+Cataclysmic variable (CV) systems are close binary star systems where a **white dwarf** accretes material from a companion star. As the material from the companion star is accreted, it flows toward the white dwarf, forming an **accretion disk** of superheated gas around it.  
 
 The intense gravitational interactions and heating within the disk cause it to brighten significantly. When the accretion rate surpasses a critical threshold, it can lead to dramatic **outbursts**, a characteristic feature of dwarf novae (a subclass of CVs). These outbursts occur due to **thermal instabilities** in the disk.  
 
@@ -38,7 +38,7 @@ These periods were further validated by generating **phase-folded light curves**
 
 # What is a beat frequency?
 
-When two signlas of similar frequencies interfere with eachother, a resluting pattern of constructive and destructive interference is created. Over certain timescales, these patterns appear in a "beating" visual, shown in the plot below.
+When two signals of similar frequencies interfere with each other, a resulting pattern of constructive and destructive interference is created. Over certain timescales, these patterns appear in a "beating" visual, shown in the plot below.
 
 <div style="margin:1rem 0;">
   <iframe src="{{ '/files/optimized_animated_beat_frequency_visualization.html' | relative_url }}" 
