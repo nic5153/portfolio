@@ -192,6 +192,8 @@ exclude:
   - README
   - tmp
   - vendor
+  - _pages/page-archive.html
+  - _pages/archive-layout-with-content.md
 keep_files:
   - .git
   - .svn
