@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Research"
 permalink: /research/
 ---
@@ -23,7 +23,6 @@ The intense gravitational interactions and heating within the disk cause it to b
 The orbital periods of CV systems are typically short,  often ranging from a few hours to less than a day due to the compact nature of the binary. Variations like **superhumps**, which are created by the precession of the accretion disk as it and the white dwarf orbits the donor star, can provide insights into the system’s dynamics.
 
 # Methods
-
 <div style="margin:1rem 0;">
   <iframe src="{{ '/files/light_curve_AT2019muu.html' | relative_url }}" 
           width="100%" height="500" style="border:0;">
